@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tp2</string>
+    <string name="new_student">Nouveau etudiant</string>
+    <string name="list_student">Liste etudiants</string>
+    <string name="new_student_Activity">new_student_Activity</string>
+    <string name="list_student_Activity">list_student_Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
